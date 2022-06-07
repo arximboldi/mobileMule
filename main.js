@@ -4,6 +4,7 @@ var mm = mm || {};
 
 // IMPORTANT: Update also main.js#version check, latestVersion.js, main.php
 mm.version = '3.6.0b';
+mm.donate = true; // nasty, I know :(
 
 mm.localStorage = mm.localStorage || new mMLocalStorage();
 
